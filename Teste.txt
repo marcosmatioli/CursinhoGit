@@ -1,0 +1,22 @@
+Testando
+
+echo "# CursoGit" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/marcosmatioli/CursoGit.git
+git push -u origin main
+
+git add . // o pont vai todos os arquivos para o commit
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/marcosmatioli/CursoGit.git
+git branch -M main
+git push -u origin main
+
+commit -a / commita tudo de uma vez
+commit -m / um de cada vez
+git As mensagens ficam em todos os arquivos!
+
+O git não deixar eu dar um push sem antes dar um pull, então tem que atualizar primeiro o meu projeto para depois atualizar o do github
