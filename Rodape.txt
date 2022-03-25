@@ -1,2 +1,5 @@
 /* Testando o comentario para enviar junto com o rodape*/
 Mudança no rodape
+
+
+[Adicionando informaçãoes]
