@@ -2,3 +2,8 @@ Olá mundo poderiamos ir em frente?!
 Alteração no arquivo!
 Alteração para jogar no lixo e depois trazer de volta a vida!
 alteração para ver!!!
+asopksapokaspokasopk
+
+
+
+o git clear -f ele limpa os arquivos untracked, basicamente os que são gerados aleatorios vc pode tirar com esse comando!
