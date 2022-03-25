@@ -7,3 +7,4 @@ asopksapokaspokasopk
 
 
 o git clear -f ele limpa os arquivos untracked, basicamente os que são gerados aleatorios vc pode tirar com esse comando!
+git gc para meh
