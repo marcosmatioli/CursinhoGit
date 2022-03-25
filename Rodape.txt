@@ -11,3 +11,6 @@ Mudança no rodape
 [Console.Adicionando arquivos]
 
 Console.Print   Adicionando arquivos 2
+
+Coinsole print aparecer!
+
