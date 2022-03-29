@@ -15,3 +15,5 @@ Console.Print   Adicionando arquivos 2
 Console.Print("
 Como asism não podemos mais colocar o commit que quiser!"
 )
+
+Aprendendo sobre os commit melhorados
