@@ -1,2 +1,19 @@
 /* Testando o comentario para enviar junto com o rodape*/
 Mudança no rodape
+
+
+[Adicionando informaçãoes]
+
+[Adicionando informalções 2]
+
+[Adicvionando ifnormalçao de um commit que não vou elvar!]
+
+[Console.Adicionando arquivos]
+
+Console.Print   Adicionando arquivos 2
+
+Console.Print("
+Como asism não podemos mais colocar o commit que quiser!"
+)
+
+Aprendendo sobre os commit melhorados
