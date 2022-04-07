@@ -20,3 +20,5 @@ _1Underline_
 - [ ] Checkbox - Sem OK
 
 ![Foto](foto.png)
+
+[A Foto](![Foto](foto.png))
