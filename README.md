@@ -19,6 +19,21 @@ _1Underline_
 - [X] Checkbox - Com OK
 - [ ] Checkbox - Sem OK
 
-![Foto](foto.png)
+![Foto](foto.png) Imagem sem link
 
-[![Foto](foto.png)](https://www.youtube.com/)
+[![Foto](foto.png)](https://www.youtube.com/) Imagem com link
+
+```javascript
+function soma (a,b)
+{
+    return a+b;
+}
+```
+
+```CSS
+.p{
+    font-size:20px;
+    color: red:
+}
+
+```
