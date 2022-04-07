@@ -17,6 +17,6 @@ _1Underline_
 *_1Mescla_*
 
 - [X] Checkbox - Com OK
-- [] Checkbox - Sem OK
+- [ ] Checkbox - Sem OK
 
-![GitHubs/foto.png](Foto)
+![Foto](GitHubs/foto.png)
