@@ -19,4 +19,4 @@ _1Underline_
 - [X] Checkbox - Com OK
 - [ ] Checkbox - Sem OK
 
-![Foto](GitHubs/foto.png)
+![Foto](foto.png)
